@@ -33,7 +33,7 @@
         </dependency>
 
     </dependencies>
-  <id>coverage</id>
+    
   <build>
    <plugins>
     <plugin>
