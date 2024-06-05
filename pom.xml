@@ -33,8 +33,6 @@
         </dependency>
 
     </dependencies>
-
-  <profile>
   <id>coverage</id>
   <build>
    <plugins>
@@ -64,5 +62,4 @@
     </plugin>
    </plugins>
   </build>
-</profile>
 </project>
